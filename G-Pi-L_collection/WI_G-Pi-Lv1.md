@@ -1,5 +1,6 @@
 # WebIncluded Games Pi License version 1(WI_G-Pi-Lv1)
 (C) 11.10.2025 PiGames/Çınar Kuzey KUMANLI
+- Renaming and license modification is permitted **as long as** this rule (this line) remains.
 
 ## 1st: Purpose
 - 1.1. This license ensures that the software remains free to use, study, modify, and share.
