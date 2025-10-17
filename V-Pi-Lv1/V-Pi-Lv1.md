@@ -1,7 +1,7 @@
 # Pi License for Videos – For all types of Media Content (V-Pi-L v1.0) – 17–18 July 2025  
 - Renaming and license modification is permitted **as long as** this rule (this line) remains.
 
-This license applies to videos published by [institution/person sharing the videos].
+This license applies to contents published by [institution/person sharing the videos].
 
 ## Terms of Use
 
@@ -54,8 +54,8 @@ The following conditions apply:
 
 ## License Usage
 
-1. **For Videos**
-   - A copy of this license must be included alongside the video. If that is not possible, this license text must be included in the video description.
+1. **For Content**
+   - A copy of this license must be included alongside the content. If that is not possible, this license text must be included in the video description.
 
 2. **For AI**
    - Videos (or some videos) used in training must be listed in a file named `VIDEOS-LICENSE.*format*` , `SOME-VIDEOS-LICENSE.*format*` , `MEDIAS-LICENSE` or `SOME-MEDIAS-LICENSE` and the description must include the following:
